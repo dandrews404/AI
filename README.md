@@ -1,1 +1,1 @@
-This project was my final for my introduction to AI where I coded in python an AI using deep Q learning
+This project was my final for my introduction to AI class where I coded an AI using deep Q learning. To run this project either copy in paste it into a Jupyter Notebook (what it was created with) or any python platform you use.
